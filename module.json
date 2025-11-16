@@ -12,6 +12,10 @@
         {
             "name": "Midas",
             "url": "https://github.com/xImidasIx"
+        },
+        {
+            "name": "zer0",
+            "url": "https://github.com/zer0-5"
         }
     ],
     "compatibility": {
@@ -19,11 +23,11 @@
         "verified": "13.350",
         "maximum": "13"
     },
-    "url": "https://github.com/xImidasIx/5e-complete",
-    "bugs": "https://github.com/xImidasIx/5e-complete/issues",
+    "url": "https://github.com/zer0-5/5e-complete",
+    "bugs": "https://github.com/zer0-5/5e-complete/issues",
     "flags": {},
-    "manifest": "https://github.com/xImidasIx/5e-complete/releases/download/release-V13/module.json",
-    "download": "https://github.com/xImidasIx/5e-complete/releases/download/release-V13/5e-complete-V13.zip",
+    "manifest": "https://github.com/zer0-5/5e-complete/releases/download/v13/module.json",
+    "download": "https://github.com/zer0-5/5e-complete/releases/download/v13/5e-complete-v13.zip",
     "protected": false,
     "coreTranslation": false,
     "packs": [
